@@ -14,3 +14,7 @@ Hra pro minimálně 3 hráče.
 * Poté co si hráči vyberou své karty, vybere Karetní car z vybraných možností tu, která je podle jeho názoru nejlepší.
 * Hráč jehož karta byla Karetním carem vybrána získává bod.
 * Karty použité v tomto kole se odloží mezi použité karty a celý postup se opakuje s následujícím začínajícím hráčem.
+
+### Konec hry:
+* Hra končí, když dojdou černé karty nebo když se hráči domluví o předčasném ukončení.
+* Vyhrává ten hráč, který má nejvíce bodů.
