@@ -3,8 +3,8 @@
 Hra pro minimálně 3 hráče.
 
 Začátek hry: 
-    * Z hráčů se určí jeden, který bude mít funkci Karetního cara.
-    * Ze zbylých hráčů se určí který bude začínat a jak se budou střídat.
+* Z hráčů se určí jeden, který bude mít funkci Karetního cara.
+* Ze zbylých hráčů se určí který bude začínat a jak se budou střídat.
 
 Pravidla jednoho kola:
     Z balíčku černých karet se otočí textem nahoru vrchní karta.
