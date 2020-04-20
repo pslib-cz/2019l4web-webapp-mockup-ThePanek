@@ -1,6 +1,6 @@
 # Karty proti lidskosti
 
-Hra pro minimálně 3 hráče.
+Hra pro 3 hráče.
 
 ### Začátek hry: 
 * Z hráčů se určí jeden, který bude mít funkci Karetního cara.
