@@ -1,0 +1,9 @@
+.one {
+    transform: translate(-250%, 150%);
+    background-color: peru;
+}
+
+.two {
+    transform: translate(150%, 150%);
+    background-color: yellowgreen;
+}
